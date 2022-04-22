@@ -34,4 +34,9 @@ ____________________________________
 3.collection.find(query)
 4.cusrsor.toArray()
 5.return the result
+6.from client: use useState and useEffect to display user as like i have done before.
+_____________________________
+Delete
+_____________________________
+1.
 */
